@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Valid_Anagram {
+public class ValidAnagram {
     public static void main (String [] args) {
         System.out.println("Testing Anagram method:");
 
